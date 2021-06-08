@@ -1,13 +1,9 @@
-<h1 align="center">Photo Sharing App UI</h1>
+It’s an image sharing  application UI. Application name is ImageSharingAppUI.  Here is some feature of this app below-
 
-### Accessing the code
+1. Users will be able to view image albums by category.
 
-- To get the *starter code*, clone the main branch.
-- To get the *completed code*, clone the "completed" branch.
+2. Users will be able to click on any albums, then it will go to the shared album page.  
 
-### Design
+3. On the shared album page, users will see multiple images by album category .
 
-<a href="https://www.figma.com/file/jKrTKKXtPBuAsMAYePaKF7/Photo-Sharing-App-UI?node-id=0%3A1" target="_blank">Click here to view the Figma designs.</a>
-
-### Mockup
-<img src="./mockup.png" />
+4. On the album page,  if a user clicks on the plus button,  it will display a pop up. If a user clicks  “Cancel” on this pop up ,  the pop up will close. If a user clicks “Create a new album”, it will display an alert. 
